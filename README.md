@@ -98,5 +98,5 @@ With over 8 years of experience crafting user-centric applications and innovativ
 
 Most of my work is in client accounts and private repos, so my personal Github is all about personal initiatives, courses, and tests
 
-![Sebastian's github stats](https://github-readme-stats.vercel.app/api?username=sgonzalezr94&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+![Sebastian's github stats](https://github-readme-stats.vercel.app/api?username=sebaslh12&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 
