@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm Sebastian Lozano Herrera
-
-🎯 Full Stack Software Engineer
-With over 8 years of experience crafting user-centric applications and innovative solutions, I specialize in building efficient, transparent, and maintainable codebases. My passion for technology drives me to constantly innovate and mentor others in the field.
+Full Stack Software Engineer with 8+ years of experience delivering scalable, user-focused software solutions from concept to production. Proven track record of leading technical initiatives, driving architectural decisions, and successfully executing complex projects across cross-functional teams. Passionate about building maintainable, high-quality systems with an emphasis on performance, transparency, and long-term sustainability. Experienced in mentoring developers, fostering engineering best practices, and aligning technical execution with business objectives.
 
 ## 💻 Technologies & Expertise
 
@@ -89,14 +87,12 @@ With over 8 years of experience crafting user-centric applications and innovativ
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" height="40" alt="salesforce logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
 
 ## 📊 Github Stats
 
-Most of my work is in client accounts and private repos, so my personal Github is all about personal initiatives, courses, and tests
+Most of my work is in client accounts and private repos, so my Github is all about personal initiatives, courses, and tests
 
 ![Sebastian's github stats](https://github-readme-stats.vercel.app/api?username=sebaslh12&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 
